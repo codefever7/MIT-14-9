@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 830">
+  <g fill="none" data-name="Layer 8">
+    <path d="M0 0h940v830H0z" />
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="15">
+      <path opacity=".5" stroke="#23d160" d="M146.2 425.33h314v239.96" />
+      <path stroke="#fe6462" opacity=".5" d="M477.86 258v407.29" />
+      <path stroke="#18eadf" opacity=".5" d="M847.53 367.33H496.2v297.96" />
+      <path stroke="#e7dc48" opacity=".25" d="M442.86 665.29v-341H43.53v-237" />
+    </g>
+  </g>
+</svg>

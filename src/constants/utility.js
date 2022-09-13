@@ -1,0 +1,1 @@
+export const arrSum = (arr) => arr.reduce((accumulator, itterator) => accumulator + itterator)

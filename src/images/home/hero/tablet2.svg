@@ -1,0 +1,117 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 937.92 187.66"
+>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+      .cls-2 {
+        fill: #ebeded;
+      }
+      .cls-3 {
+        fill: #e3e8e8;
+      }
+      .cls-4 {
+        fill: #f5f7f7;
+      }
+      .cls-5 {
+        opacity: 0.05;
+      }
+      .cls-6,
+      .cls-7 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+      .cls-6 {
+        stroke-width: 1.09px;
+      }
+      .cls-7 {
+        stroke-width: 2px;
+      }
+      .cls-8 {
+        fill: #cbced1;
+      }
+      .cls-9 {
+        fill: #fff;
+      }
+      .cls-10 {
+        fill: #2096ff;
+        opacity: 0.25;
+      }
+    </style>
+    <linearGradient
+      id="linear-gradient"
+      x1="-339.08"
+      y1="-2459.75"
+      x2="-289.08"
+      y2="-2459.75"
+      gradientTransform="translate(2929.17 -289.08) rotate(-90)"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="#fff" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <title>tablet 2</title>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <polygon
+      class="cls-1"
+      points="871.92 0 799.92 50 127.92 50 66.92 0 871.92 0"
+    />
+    <rect
+      class="cls-2"
+      x="84.13"
+      y="53"
+      width="758"
+      height="36"
+      rx="18"
+      ry="18"
+    />
+    <rect
+      class="cls-3"
+      x="166.13"
+      y="20"
+      width="594"
+      height="24"
+      rx="9.77"
+      ry="9.77"
+    />
+    <polygon
+      class="cls-4"
+      points="828.63 54 97.63 54 176.63 23 754.63 23 828.63 54"
+    />
+    <g class="cls-5">
+      <path
+        d="M930.64,187.66H7.28c-8,0-10.13-17.22-2.65-21.77l70.81-43.11a5.08,5.08,0,0,1,2.65-.78H864.31a5.13,5.13,0,0,1,2.81.88L933.45,166C940.77,170.74,938.58,187.66,930.64,187.66Z"
+      />
+    </g>
+    <polygon
+      class="cls-4"
+      points="815.63 54 110.63 54 186.82 23 744.26 23 815.63 54"
+    />
+    <path class="cls-6" d="M746.13,25.5" />
+    <path class="cls-6" d="M180.13,25.5" />
+    <path class="cls-7" d="M802.63,46.5" />
+    <path class="cls-7" d="M131.63,46.5" />
+    <ellipse class="cls-8" cx="463.13" cy="50" rx="27.5" ry="2" />
+    <rect
+      class="cls-8"
+      x="416.42"
+      y="62.5"
+      width="101"
+      height="17"
+      rx="8.5"
+      ry="8.5"
+    />
+    <circle class="cls-8" cx="112.92" cy="71" r="8.5" />
+    <polygon
+      class="cls-9"
+      points="796.92 46 131.92 46 179.92 25 747.92 25 796.92 46"
+    />
+    <ellipse class="cls-10" cx="463.29" cy="29.12" rx="59.5" ry="2.5" />
+  </g>
+</svg>
