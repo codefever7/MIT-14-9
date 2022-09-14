@@ -31,7 +31,7 @@ const ReadMoreWrap = styled.div`
 `
 
 export default function Trainings({}) {
-  const data = [1, 2, 3, 4]
+  const data = [1, 2, 3, 4, 5, 6]
   // const arr = [
   //   'http://edulink.lu/0w2q',
   //   'http://edulink.lu/g2x1',
@@ -42,14 +42,25 @@ export default function Trainings({}) {
   const videoArr0 = ['https://player.vimeo.com/video/603743867?h=d855dd3954']
   const videoArr1 = [
     'https://player.vimeo.com/video/651140639?h=785972c038',
-    'https://player.vimeo.com/video/651141150?h=8d99e44996',
-    'https://player.vimeo.com/video/651128456?h=b2c2c6daaa',
+    'https://player.vimeo.com/video/647194906?h=bcc9dcca1a'
   ]
   const videoArr2 = [
-    'https://player.vimeo.com/video/647194906?h=bcc9dcca1a',
+    'https://player.vimeo.com/video/651141150?h=8d99e44996',
     'https://player.vimeo.com/video/648640658?h=931046be66',
+  ]
+  const videoArr3 = [
+    'https://player.vimeo.com/video/651128456?h=b2c2c6daaa',
     'https://player.vimeo.com/video/647381067?h=7e3461356a',
   ]
+
+  const link = [
+    "http://www.edulink.lu/g179",
+    "http://www.edulink.lu/srsz",
+    "http://www.edulink.lu/fbyz",
+    "http://www.edulink.lu/hv6i",
+    "http://www.edulink.lu/vnih",
+    "https://mathematic.lu/plc",
+  ];
 
   return (
     <>
@@ -79,7 +90,9 @@ export default function Trainings({}) {
                   <FormattedMessage id={`training.${index}title`} />
                 </h3>
                 <FontItalic>
-                  <FormattedMessage id={`training.${index}sub`} />
+                  <a href={link[index]} target={"_blanck"} >
+                  <FormattedMessage id={`training.${index}sub`} /> {link[index]}
+                  </a>
                 </FontItalic>
                 <p style={{ marginBottom: 0 }}>
                   <FormattedMessage id={`training.${index}desc`} />
@@ -117,6 +130,18 @@ export default function Trainings({}) {
                   ))}
                 {index === 2 &&
                   videoArr2.map(item => (
+                    <iframe
+                      src={item}
+                      width="320"
+                      height="180"
+                      style={{ marginTop: '20px' }}
+                      frameborder="0"
+                      allow="autoplay; fullscreen; picture-in-picture"
+                      allowfullscreen
+                    ></iframe>
+                  ))}
+                {index === 3 &&
+                  videoArr3.map(item => (
                     <iframe
                       src={item}
                       width="320"

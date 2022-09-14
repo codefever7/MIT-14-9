@@ -118,6 +118,21 @@ export default function IndexPage({ data, pageContext }) {
       textID: 'actionableDataBlurb',
       image: data.HiW_ActionableData1,
     },
+    {
+      titleID: 'personalizedLearning',
+      textID: 'studentsInteractWithResearchBacked',
+      image: data.HiW_PersonalizedLearning1,
+    },
+    {
+      titleID: 'differantiatedInstruction',
+      textID: 'differantiatedInstructionBlurb',
+      image: data.HiW_DifferentiatedInstructions1,
+    },
+    {
+      titleID: 'actionableData',
+      textID: 'actionableDataBlurb',
+      image: data.HiW_ActionableData1,
+    },
     // {
     //   titleID: 'actionableData',
     //   textID: 'actionableDataBlurb',

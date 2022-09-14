@@ -102,21 +102,29 @@
   "contactForm.submit": "Submit",
 
   "training.link": "/training",
-  "training.0title": "MathemaTIC.lu Live Event - Starter level",
-  "training.0sub": "First steps with MathemaTIC.lu for all new users (13/9 or 30/9/2021)",
-  "training.0desc": "In this first training, participants learn how to connect to  www.MathemaTIC.lu with their IAM. The installation on Android or iPad tablets, as well as the creation of classes or groups, are thoroughly covered. The various functions of the teacher interface are presented in detail to enable immediate use after the training.  ",
+  "training.0title": "Starter e-Training",
+  "training.0sub": "Sign up here ",
+  "training.0desc": "Getting started with the MathemaTIC.lu platform with live Q & A on 4th & 6th of October",
 
-  "training.1title": "MathemaTIC.lu Live Event - Level 1",
-  "training.1sub": "Presentation and use of a module (28/10/2021)",
-  "training.1desc": "In this second training course, participants will discover different possibilities to use MathemaTIC. We will present different pedagogical scenarios and specific modules for each target group.  ",
+  "training.1title": "Cycle 3 e-Training",
+  "training.1sub": "Sign up here ",
+  "training.1desc": "Exploring the modules “Problem solving” & “Numbers and operations”",
 
-  "training.2title": "MathemaTIC.lu Live Event - Level 2",
-  "training.2sub": "Presentation of a second module and the role of the teacher (25/11/2021)",
-  "training.2desc": "In this third training session, participants will be invited to reflect on the integration of MathemaTIC in their practice. We will explore the use of MathemaTIC for learning, practice and remediation. Project work and Flipped Classroom are illustrated with a module as a learning method for each target group.    ",
+  "training.2title": "Cycle 4 e-Training",
+  "training.2sub": "Sign up here ",
+  "training.2desc": "Exploring the modules “Area and Perimeter” & “Geometry” ",
 
-  "training.3title": "PLC for MathemaTIC",
-  "training.3sub": "Professional Learning Community for MathemaTIC (6 sessions of 1.5 hours from November to June)",
-  "training.3desc": "The 'PLC for MathemaTIC' format is offered exclusively online for Pedagogical Teams in cycles 3 to 4 of the Primary School. You can meet as a group with your colleagues in your school and discuss the sessions with them at your own pace. During the sessions, the trainers share videos and documents related to MathemaTIC. On your side, you carry out practical tasks with your colleagues.  ",
+  "training.3title": "Voie de préparation e-Training",
+  "training.3sub": "Sign up here ",
+  "training.3desc": "Exploring the “Module 1” & “Module 2” ",
+  
+  "training.4title": "ESG / ESC e-Training",
+  "training.4sub": "Sign up here ",
+  "training.4desc": "Live training on Microsoft Teams ",
+  
+  "training.5title": "PLC for MathemaTIC e-Training",
+  "training.5sub": "Sign up here ",
+  "training.5desc": "Hybrid Training on Moodle and in the school ",
 
   "plc.title": "PLC",
   "plc.blurb": "Professional Learning Community,",

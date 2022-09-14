@@ -102,21 +102,29 @@
   "contactForm.submit": "Envoyer",
 
   "training.link": "/fr/training",
-  "training.0title": "MathemaTIC.lu Live Event - Starter Level",
-  "training.0sub": "Premiers pas avec MathemaTIC.lu pour tous les nouveaux utilisateurs (13/9 ou 30/9/2021)",
-  "training.0desc": "   Dans cette première formation, les participants apprennent à se connecter sur www.MathemaTIC.lu avec leur IAM. L'installation sur les tablettes Android ou iPad, ainsi que la création de classes ou de groupes, sont abordées en détail. Les différentes fonctions de l'interface enseignant sont présentées en détail pour permettre une utilisation immédiate après la formation. ",
+  "training.0title": "e-Formation Starter",
+  "training.0sub": "S'inscrire ici",
+  "training.0desc": "Prise en main de la plateforme MathemaTIC.lu avec questions-réponses en direct les 4 et 6 octobre",
 
-  "training.1title": "MathemaTIC.lu Live Event - Level 1",
-  "training.1sub": "Présentation et utilisation d'un module (28/10/2021)",
-  "training.1desc": "Lors de cette deuxième formation, les participants découvriront différentes possibilités pour exploiter MathemaTIC. Nous exposerons différents scénarios pédagogiques et présenterons des modules spécifiques pour chaque groupe cible. ",
+  "training.1title": "Cycle 3 e-Formation",
+  "training.1sub": "S'inscrire ici",
+  "training.1desc": "Exploration des modules 'Résolution de problèmes' et 'Nombres et opérations'",
 
-  "training.2title": "MathemaTIC.lu Live Event - Level 2",
-  "training.2sub": "Présentation d'un deuxième module et le rôle de l'enseignante (25/11/2021)",
-  "training.2desc": "Dans cette troisième formation, les participants seront invités à mener une réflexion sur l'intégration de MathemaTIC dans leur pratique. Nous approfondissons l'utilisation de MathemaTIC pour l'apprentissage, la répétition et la remise à niveau. Le travail par projets, ainsi que le Flipped Classroom, sont illustrés à l'aide d'un module comme méthode d'apprentissage pour chaque groupe cible.  ",
+  "training.2title": "Cycle 4 e-Formation",
+  "training.2sub": "S'inscrire ici",
+  "training.2desc": "Exploration des modules 'Aire et périmètre' et 'Géométrie'.",
 
-  "training.3title": "PLC for MathemaTIC",
-  "training.3sub": "Communauté d'apprentissage professionnelle pour MathemaTIC (6 sessions de 1,5 heures de novembre à juin)",
-  "training.3desc": "Le format 'PLC for MathemaTIC' est proposé exclusivement en ligne pour les Équipes Pédagogiques des cycles 3 a 4 du Fondamental. Vous pouvez vous réunir en groupe avec vos collègues dans votre école et discuter des sessions avec eux à votre propre rythme. Pendant les sessions, les formateurs trices partagent des vidéos et des documents en rapport avec MathemaTIC. De votre côté, vous effectuez des tâches pratiques avec vos collègues. ",
+  "training.3title": "Voie de préparation e-Formation",
+  "training.3sub": "S'inscrire ici",
+  "training.3desc": "Exploration du 'Module 1' et du 'Module 2'",
+  
+  "training.4title": "ESG / ESC e-Formation",
+  "training.4sub": "S'inscrire ici ",
+  "training.4desc": "Formation en direct sur Microsoft Teams",
+  
+  "training.5title": "PLC pour MathemaTIC e-Formation",
+  "training.5sub": "S'inscrire ici ",
+  "training.5desc": "Formation hybride sur Moodle et à l'école",
 
   "plc.title": "PLC",
   "plc.blurb": "Berufflech Léieren Communautéit,",

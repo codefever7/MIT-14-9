@@ -93,6 +93,14 @@ const MarginWrap = styled.div`
   margin-bottom: ${theme.margin.small};
 `
 
+const link = [
+  "http://www.edulink.lu/g179",
+  "http://www.edulink.lu/srsz",
+  "http://www.edulink.lu/fbyz",
+  "http://www.edulink.lu/hv6i",
+  "http://www.edulink.lu/vnih",
+  "https://mathematic.lu/plc",
+];
 export default function SlidingInfoCard({ title, text, image, index }) {
   return (
     <MarginWrap>
@@ -110,13 +118,10 @@ export default function SlidingInfoCard({ title, text, image, index }) {
           <HiddenPart>
             <FormattedMessage id={`training.${index}desc`} />
 
-            <Link
-              onClick={e =>
-                (window.location.href = `${window.location.href}trainings`)
-              }
-            >
-              <FormattedMessage id="home.learnMore" />
-            </Link>
+            <a href={link[index]} target={"_blanck"}>
+              {link[index]}
+              {/* <FormattedMessage id="home.learnMore" /> */}
+            </a>
           </HiddenPart>
         </SlideOutPart>
       </Main>

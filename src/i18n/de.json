@@ -103,21 +103,29 @@
   "contactForm.submit": "Senden",
 
   "training.link": "/de/training",
-  "training.0title": "MathemaTIC.lu Live Event - Starter Level",
-  "training.0sub": "Erste Schritte mit MathemaTIC.lu für alle neuen Benutzer (13/9 oder 30/9/2021)",
-  "training.0desc": "In dieser ersten Fortbildung lernen die Teilnehmer, wie sie sich mit ihrem IAM bei www.MathemaTIC.lu anmelden können. Die Installation auf Android- oder iPad-Tablets, sowie das Erstellen von Klassen oder Gruppen, werden ausführlich behandelt. Die verschiedenen Funktionen der Lehreroberfläche werden ausführlich vorgestellt, damit sie nach der Schulung sofort genutzt werden können.  ",
+  "training.0title": "Starter e-Fortbildung",
+  "training.0sub": "Hier anmelden ",
+  "training.0desc": "Erste Schritte mit der MathemaTIC.lu Plattform mit Live Q & A am 4. und 6. Oktober ",
 
-  "training.1title": "MathemaTIC.lu Live-Event - Level 1",
-  "training.1sub": "Vorstellung und Nutzung eines Moduls (28/10/2021)",
-  "training.1desc": "In dieser zweiten Fortbildung lernen die Teilnehmer verschiedene Möglichkeiten für den Einsatz von MathemaTIC kennen. Wir werden verschiedene pädagogische Szenarien und spezifische Module für jede Zielgruppe vorstellen.  ",
+  "training.1title": "Zyklus 3 e-Fortbildung",
+  "training.1sub": "Hier anmelden ",
+  "training.1desc": "Entdeckung der Module 'Sachaufgaben' & 'Zahlen und Operationen' ",
 
-  "training.2title": "MathemaTIC.lu Live-Event - Level 2",
-  "training.2sub": "Vorstellung eines zweiten Moduls und die Rolle des Lehrers (25/11/2021)",
-  "training.2desc": "In dieser dritten Fortbildung werden die Teilnehmer aufgefordert, über die Integration von MathemaTIC in ihre Praxis zu reflektieren. Wir werden den Einsatz von MathemaTIC zum Lernen, Üben und Wiederholen von Lerninhalten erkunden. Projektarbeit und der Flipped Classroom werden anhand eines Moduls als Lernmethode für jede Zielgruppe veranschaulicht.  ",
+  "training.2title": "Zyklus 4 e-Fortbildung",
+  "training.2sub": "Hier anmelden ",
+  "training.2desc": "Entdeckung der Module ' Flächeninhalt und Umfang' & 'Geometrie' ",
 
-  "training.3title": "PLC für MathemaTIC",
-  "training.3sub": "Professionelle Lerngemeinschaft für MathemaTIC (6 Sitzungen à 1,5 Stunden von November bis Juni)",
-  "training.3desc": "Das Format 'PLC for MathemaTIC' wird ausschließlich online für Pädagogische Teams in den Zyklen 3 bis 4 der Grundschule angeboten. Sie können sich als Gruppe mit Ihren Kollegen in Ihrer Schule treffen und die Sitzungen mit ihnen nach Ihrem persönlichen Rhythmus durchführen. Während den Sitzungen teilen die Kursleiter Videos und Dokumente zu MathemaTIC. Ihrerseits führen Sie praktische Aufgaben mit Ihren Kollegen durch.  ",
+  "training.3title": "Voie de préparation e-Fortbildung",
+  "training.3sub": "Hier anmelden ",
+  "training.3desc": "Entdeckung der 'Module 1' und 'Module 2' ",
+
+  "training.4title": "ESG / ESC e-Fortbildung",
+  "training.4sub": "Hier anmelden ",
+  "training.4desc": "Live-Fortbildung auf Microsoft Teams ",
+
+  "training.5title": "PLC für MathemaTIC e-Fortbildung",
+  "training.5sub": "Hier anmelden ",
+  "training.5desc": "Hybrid-Fortbildung auf Moodle und in der Schule ",
 
   "plc.title": "PLC",
   "plc.blurb": "Berufflech Léieren Communautéit,",
