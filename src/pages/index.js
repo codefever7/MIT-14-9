@@ -121,17 +121,17 @@ export default function IndexPage({ data, pageContext }) {
     {
       titleID: 'personalizedLearning',
       textID: 'studentsInteractWithResearchBacked',
-      image: data.HiW_PersonalizedLearning1,
+      image: data.HiW_Meeting,
     },
     {
       titleID: 'differantiatedInstruction',
       textID: 'differantiatedInstructionBlurb',
-      image: data.HiW_DifferentiatedInstructions1,
+      image: data.HiW_Idea,
     },
     {
       titleID: 'actionableData',
       textID: 'actionableDataBlurb',
-      image: data.HiW_ActionableData1,
+      image: data.HiW_TeamWork,
     },
     // {
     //   titleID: 'actionableData',
@@ -465,6 +465,15 @@ export const query = graphql`
       ...howItWorksFrag
     }
     HiW_Podium: file(relativePath: { eq: "home/how_it_works/Podium.png" }) {
+      ...howItWorksFrag
+    }
+    HiW_Meeting: file(relativePath: { eq: "home/how_it_works/meeting.png" }) {
+      ...howItWorksFrag
+    }
+    HiW_Idea: file(relativePath: { eq: "home/how_it_works/idea.png" }) {
+      ...howItWorksFrag
+    }
+    HiW_TeamWork: file(relativePath: { eq: "home/how_it_works/team-work.png" }) {
       ...howItWorksFrag
     }
   }
